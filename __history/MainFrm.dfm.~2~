@@ -73,7 +73,7 @@ object FrmMain: TFrmMain
   end
   object Memo1: TMemo
     Left = 28
-    Top = 16
+    Top = 8
     Width = 441
     Height = 253
     Lines.Strings = (
