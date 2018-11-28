@@ -4,8 +4,8 @@ object FrmMain: TFrmMain
   BorderIcons = [biSystemMenu]
   BorderStyle = bsSingle
   Caption = 'Rad Studio Keygen'
-  ClientHeight = 451
-  ClientWidth = 488
+  ClientHeight = 431
+  ClientWidth = 451
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -72,8 +72,8 @@ object FrmMain: TFrmMain
     OnChange = ComboBox1Change
   end
   object Memo1: TMemo
-    Left = 28
-    Top = 8
+    Left = 4
+    Top = 4
     Width = 441
     Height = 253
     Lines.Strings = (
@@ -138,7 +138,7 @@ object FrmMain: TFrmMain
   end
   object Button1: TButton
     Left = 82
-    Top = 399
+    Top = 383
     Width = 90
     Height = 23
     Caption = 'Generate'
@@ -153,7 +153,7 @@ object FrmMain: TFrmMain
   end
   object Button2: TButton
     Left = 273
-    Top = 399
+    Top = 383
     Width = 90
     Height = 23
     Caption = 'Patch'
